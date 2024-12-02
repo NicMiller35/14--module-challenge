@@ -9,9 +9,9 @@ This project is a kanban application. This application accepts a username and pa
 - [Tests](#tests)
 - [Questions](#questions)
 ## Usage
-![alt text](src/assets/screen.png)
+![alt text](client/src/assets/shot.png)
 - Github repo: <https://github.com/NicMiller35/14--module-challenge>
-- Link to site: <>
+- Link to site: <https://one4-module-challenge.onrender.com/>
 ## Contribution
 Nic Miller
 
